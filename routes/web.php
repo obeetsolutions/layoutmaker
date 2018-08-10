@@ -11,11 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('raiz');
-
-Route::get('home', function () {
-    return view('home/index');
-})->name('inicio');
-
+Route::get('/', 'GuestController@boasVindas')->name('homepageGuest');
+//Route::get('login', 'GuestController@boasVindas')->name('login');
