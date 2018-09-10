@@ -24,6 +24,6 @@
 .options {
     display: none;
 }
-.column:hover .options{
+.column:hover>.options, .line:hover>.options{
     display: block;
 }

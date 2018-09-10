@@ -134,6 +134,127 @@
                     </div>
                 </div>
             </div>
+            <div class="col-sm-12 options">
+                <a href="#" class="target-add">
+                    <div class="row">
+                        <div class="col">
+                            <hr class="divisor-icon">
+                        </div>
+                        <div class="col-1 text-center">
+                            <i class="fas fa-plus-circle"></i>
+                        </div>
+                        <div class="col">
+                            <hr class="divisor-icon">
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="row line" id="sortable">
+            <div class="col-sm-11">
+                <div class="row">
+
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-1">
+                <div class="row">
+                    <div class="col text-center">
+                        <a href="#" class="target-edit">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <a href="#" class="target-remove">
+                            <i class="fas fa-minus-circle"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 options">
+                <a href="#" class="target-add">
+                    <div class="row">
+                        <div class="col">
+                            <hr class="divisor-icon">
+                        </div>
+                        <div class="col-1 text-center">
+                            <i class="fas fa-plus-circle"></i>
+                        </div>
+                        <div class="col">
+                            <hr class="divisor-icon">
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </body>

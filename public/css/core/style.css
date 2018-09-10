@@ -12,3 +12,14 @@
 .target-edit:hover {
     color: #3e6195;
 }
+.divisor-icon {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.target-add {
+    color: #5b8fda;
+    text-decoration: none !important;
+}
+.target-add:hover {
+    color: #3e6195;
+}
