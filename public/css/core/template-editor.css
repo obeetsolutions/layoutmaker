@@ -1,0 +1,22 @@
+.line {
+    min-height: 30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #ececec;
+}
+.line:hover {
+    background-color: #8c8c8c;
+}
+.main-template {
+    padding: 5px 20px;
+    border: 1px solid #dfdfdf;
+}
+.column {
+    min-height: 30px;
+    border: 1px solid #fff;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.column:hover {
+    background-color: #c2f0f2;
+}
