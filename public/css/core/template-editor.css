@@ -3,9 +3,10 @@
     padding-top: 4px;
     padding-bottom: 4px;
     background-color: #ececec;
+    position: relative;
 }
 .line:hover {
-    background-color: #8c8c8c;
+    background-color: #d4d4d4;
 }
 .main-template {
     padding: 5px 20px;
@@ -19,4 +20,10 @@
 }
 .column:hover {
     background-color: #c2f0f2;
+}
+.options {
+    display: none;
+}
+.column:hover .options{
+    display: block;
 }

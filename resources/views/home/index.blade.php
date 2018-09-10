@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="plugins/jquery-ui-1.12.1/jquery-ui.css">
     <link rel="stylesheet" href="plugins/bootstrap-4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="plugins/fontawesome-free-5.3.1/css/all.min.css">
+    <link rel="stylesheet" href="css/core/style.css">
     <link rel="stylesheet" href="css/core/template-editor.css">
 
     <style>
@@ -44,18 +45,95 @@
             {{--<div id="draggable" class="col-lg-4 colorido">Item</div>--}}
         {{--</div>--}}
         <div class="row line" id="sortable">
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
-            <div class="col column"></div>
+            <div class="col-sm-11">
+                <div class="row">
+
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col column">
+                        <div class="row options">
+                            <div class="col text-center">
+                                <a href="#" class="target-edit">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a href="#" class="target-remove">
+                                    <i class="fas fa-minus-circle"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-1">
+                <div class="row">
+                    <div class="col text-center">
+                        <a href="#" class="target-edit">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <a href="#" class="target-remove">
+                            <i class="fas fa-minus-circle"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>
